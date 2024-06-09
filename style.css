@@ -1,0 +1,28 @@
+body{
+    background-color: aliceblue;
+}
+
+.align{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+
+.button{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+
+button{
+    background-color: antiquewhite;
+    width: 100px;
+    height: 70px;
+    margin-top: 200px;
+}
